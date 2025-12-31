@@ -1,6 +1,7 @@
 # SkidsTrap 
 ## Installation
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/NgKhaiReal/Skidstrap/refs/heads/main/installation/skidstrap.luau"))()```
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NgKhaiReal/Skidstrap/refs/heads/main/installation/skidstrap.luau"))()```
 ## ------ ** INFO ** ------
 - Discord : https://discord.gg/QfAq5y8MWD
 - YouTube: https://youtube.com/@NgKhaiRyan
