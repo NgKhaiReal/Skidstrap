@@ -1,7 +1,7 @@
 # SkidsTrap 
---- ** INFO ** ---
-Discord : https://discord.gg/QfAq5y8MWD
-YouTube: https://youtube.com/@NgKhaiRyan
+------ ** INFO ** ------
+- Discord : https://discord.gg/QfAq5y8MWD
+- YouTube: https://youtube.com/@NgKhaiRyan
 
 ## Features ✨
 - **1. FFLAGS MANAGER/CUSTOM**
